@@ -24,6 +24,7 @@ public class MathUtil {
         // và test bộ data khác, test case, tình huống  khác
         System.out.println("0!: " + MathUtility.getFactorial(1));
         System.out.println("-5!: " + MathUtility.getFactorial(-5));
+        System.out.println("hihihihih");
     }
    //Code viết ra thì Dep phải test trước cái đã
         // có vài hình thức test code khác nhau
