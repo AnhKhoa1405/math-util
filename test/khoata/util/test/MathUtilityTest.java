@@ -39,7 +39,7 @@ public class MathUtilityTest {
          assertEquals(6, MathUtility.getFactorial(3));
          assertEquals(1, MathUtility.getFactorial(1));
          assertEquals(1, MathUtility.getFactorial(0));
-         System.out.println("abcdef");
+         assertEquals(6, MathUtility.getFactorial(3));
          
      }
 }
