@@ -38,7 +38,8 @@ public class MathUtilityTest {
          assertEquals(24, MathUtility.getFactorial(4));
          assertEquals(6, MathUtility.getFactorial(3));
          assertEquals(1, MathUtility.getFactorial(1));
-         assertEquals(2, MathUtility.getFactorial(0));
+         assertEquals(1, MathUtility.getFactorial(0));
+         System.out.println("abcdef");
          
      }
 }
